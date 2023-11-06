@@ -1,0 +1,18 @@
+Team members
+Priyanshu -2022csb1107
+swapnil panday-2022csb1133\
+
+Mentoring TA
+E harshit
+
+Johnsons algorithem for all shortest.
+
+Project summary
+In our project, we have explaind the working jhonson's algorithem for all shortest paths. To do so we first had to explain the working of dijkstra algorithem and bellman ford alrithem in detail.The code we provided implements Johnson's algorithm to find the shortest paths between all pairs of vertices in a weighted directed graph, handling negative edge weights and detecting negative-weight cycles. It computes the distance matrix, indicating the shortest distances between all pairs of vertices.
+
+Average Time complexity for the provided algorithems are :
+    Bellman-Ford: (V \cdot E, where V is the number of vertices and E is the number of edges.
+    Reweighting: O(V \cdot E), reweighting all edges.
+    Dijkstra's (V times): O(V^2.log(V)), if a binary heap is used.
+    Total Time Complexity: O(V.(E + V^2.log(V)).
+
