@@ -10,7 +10,7 @@
 #include <limits.h>
 
 #define V 1000
-#define INF 10000000// Define Infinite as a large enough value
+#define INF 1000000// Define Infinite as a large enough value
 
 // A function to print the solution matrix
 void printSolution(int dist[][V], int v);
