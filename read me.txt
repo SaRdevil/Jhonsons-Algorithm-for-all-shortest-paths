@@ -1,6 +1,7 @@
 Team members
+Sarthak Dev Rathor -2022MCB1278
 Priyanshu -2022csb1107
-swapnil panday-2022csb1133\
+swapnil panday-2022csb1133
 
 Mentoring TA
 E harshit
@@ -15,4 +16,5 @@ Average Time complexity for the provided algorithems are :
     Reweighting: O(V \cdot E), reweighting all edges.
     Dijkstra's (V times): O(V^2.log(V)), if a binary heap is used.
     Total Time Complexity: O(V.(E + V^2.log(V)).
+
 
